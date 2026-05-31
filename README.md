@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**GuillermoW93/GuillermoW93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📍 Graduated with a B.S. in HBO-ICT from ZUYD University of Applied Sciences, with a concentration in Datacenters, Cybersecurity, Programming, and Russian & Eurasian Language
+- ⚠️ Now, I am an Cloud Native Engineer at TrueFullStaq.
+- 🔭 Previous projects & experiences:
+    * Worked at Google on the Google Global Cache (GGC) team for 3 years
+    * Worked at KPN, migrating infrastructure to FlatCar with Portainer
+- 😄 Recognized as a Kubestronaut since March 2026, actively working towards becoming a Golden Kubestronaut
+  
+<a href="https://github.com/GuillermoW93">
+    <img src="https://github-stats-alpha.vercel.app/api?username=GuillermoW93&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
-Here are some ideas to get you started:
+### My Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuillermoW93&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuillermoW93&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuillermoW93&theme=dracula)
