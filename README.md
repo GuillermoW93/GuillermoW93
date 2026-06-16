@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-- 📍 Graduated with a B.S. in HBO-ICT from ZUYD University of Applied Sciences, with a concentration in Datacenters, Cybersecurity, Programming, and Russian & Eurasian Language
-
 I am an **Cloud Native Engineer** at TrueFullStaq with the interest in:
 - DevOps
 - Platform Engineering
 - Site Reliability Engineering (SRE)
 - DevSecOps, Cloud and Infrastructure Security
 - Kubernetes and Containerization
-  
+
+📍 Graduated with a B.S. in HBO-ICT from ZUYD University of Applied Sciences, with a concentration in Datacenters, Cybersecurity, Programming, and Russian & Eurasian Language
+
 <a href="https://github.com/GuillermoW93">
     <img src="https://github-stats-alpha.vercel.app/api?username=GuillermoW93&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
