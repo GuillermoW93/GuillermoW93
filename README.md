@@ -31,4 +31,5 @@ Here are some of the certifications I hold:
   <img src="./certs/4.png" alt="Certification 4" width="100" height="100">
   <img src="./certs/5.png" alt="Certification 5" width="100" height="100">
   <img src="./certs/6.png" alt="Certification 6" width="100" height="100">
+  <img src="./certs/7.png" alt="Certification 7" width="100" height="100">
 </div>
